@@ -1,0 +1,29 @@
+body {
+  background-color: #ffc107; /* color amarillo */
+  color: #000; /* color negro */
+}
+
+.navbar {
+  background-color: #000;
+}
+
+.sidebar {
+  position: fixed;
+  right: 0;
+  width: 300px;
+  background-color: #f8f9fa;
+  padding: 1em;
+}
+
+.btn-success {
+  background-color: #28a745;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+}
+
